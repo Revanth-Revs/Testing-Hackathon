@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testng-results failed="0" passed="2" skipped="0" total="2">
+    <suite duration-ms="20555" name="io.cucumber.core.plugin.TestNGFormatter">
+        <test duration-ms="20555" name="io.cucumber.core.plugin.TestNGFormatter">
+            <class name="Test Login Functionality of a Website">
+                <test-method duration-ms="11939" finished-at="2022-09-19T06:05:15.766698900Z" name="Check Login Feature" started-at="2022-09-19T06:05:03.573294100Z" status="PASS"/>
+                <test-method duration-ms="7905" finished-at="2022-09-19T06:05:23.884085700Z" name="Check Login Feature_2" started-at="2022-09-19T06:05:15.953056500Z" status="PASS"/>
+            </class>
+        </test>
+    </suite>
+</testng-results>
